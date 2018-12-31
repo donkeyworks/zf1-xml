@@ -1,5 +1,5 @@
 {
-    "name": "diablomedia/zendframework1-xml",
+    "name": "donkeyworks/zendframework1-xml",
     "description": "Zend Framework 1 XML component",
     "type": "library",
     "keywords": [
@@ -15,7 +15,7 @@
         "ext-dom": "*",
         "ext-libxml": "*",
         "ext-SimpleXML": "*",
-        "diablomedia/zendframework1-exception": "^1.0.0"
+        "donkeyworks/zendframework1-exception": "^1.0.0"
     },
     "autoload": {
         "psr-0": {
